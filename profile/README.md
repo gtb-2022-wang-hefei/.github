@@ -2,8 +2,7 @@
 
 Hi, this is Hefei, check how I look below :D
 
-profile/img.png
-
+![img.png](profile/img.png)
 
 I graduated from:
 
