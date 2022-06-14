@@ -2,7 +2,8 @@
 
 Hi, this is Hefei, check how I look below :D
 
-![img.png](img.png)
+[Uploading 00bad6dc92becdc34e896b42b7a505b(1).jpg…]()
+
 
 I graduated from:
 
