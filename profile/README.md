@@ -2,7 +2,7 @@
 
 Hi, this is Hefei, check how I look below :D
 
-![img.png](profile/img.png)
+![img_1.png](img_1.png)
 
 I graduated from:
 
